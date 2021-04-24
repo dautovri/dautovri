@@ -1,8 +1,7 @@
 
 # Ruslan is here 👋
 
-Hi, my name is Ruslan Dautov and I'm PhD candidate at Shenzhen University(Big Data Institution)/ founder at HPCD Lab (https://hpcdlab.com)
-
+Hi, my name is Ruslan Dautov and I'm PhD candidate at Shenzhen University(Big Data Institution)
 
 🖥 **Current Tech stack**: Apache Spark, Python, Hadoop 
 
