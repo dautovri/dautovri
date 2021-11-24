@@ -1,7 +1,7 @@
 
 # Ruslan is here 👋
 
-Hi, my name is Ruslan Dautov and I'm PhD candidate at Shenzhen University(Big Data Institution)
+Hi, my name is Ruslan Dautov and I'm SWE at ZEDEDA
 
 🖥 **Current Tech stack**: Apache Spark, Python, Hadoop 
 
