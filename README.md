@@ -3,8 +3,6 @@
 
 Hi, my name is Ruslan Dautov and I'm SWE at ZEDEDA
 
-🖥 **Current Tech stack**: Apache Spark, Python, Hadoop 
-
 📭 **How to reach me**: Skype, Twitter, Telegram **@dautovri**, [LinkedIn](https://www.linkedin.com/in/dautovri/)
 
 📕**Book**: [OpenMP](https://ruslan-dautov.gitbook.io/openmp/)
