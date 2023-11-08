@@ -1,7 +1,7 @@
 
 # Ruslan is here 👋
 
-Hi, my name is Ruslan Dautov and I'm SWE at ZEDEDA
+Hi, my name is Ruslan Dautov and I'm SRE at ZEDEDA
 
 🇩🇪 I live in Berlin, Germany.
 
