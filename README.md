@@ -18,3 +18,5 @@ Hi, my name is Ruslan Dautov and I'm SRE at ZEDEDA
 **CVE-2026-43739**: An app may be able to cause unexpected system termination
 
 **CVE-2026-43816**: An app may be able to cause unexpected system termination
+
+**CVE-2026-64691**: An app may be able to cause unexpected system termination
