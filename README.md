@@ -11,12 +11,9 @@ Hi, my name is Ruslan Dautov and I'm SRE at ZEDEDA
 
 📑 **Papers** : [Google Scholar](https://scholar.google.com/citations?user=BbHgeogAAAAJ&hl=en)
 
-**Apple**
+Responsible disclosure of vulnerabilities acknowledged by **Apple**:
 
-**CVE-2026-28983**: Remote attacker may be able to cause a denial of service
-
-**CVE-2026-43739**: An app may be able to cause unexpected system termination
-
-**CVE-2026-43816**: An app may be able to cause unexpected system termination
-
-**CVE-2026-64691**: An app may be able to cause unexpected system termination
+- 🔒 **[CVE-2026-28983](https://cve.org/CVERecord?id=CVE-2026-28983)**
+- 🔒 **[CVE-2026-43739](https://cve.org/CVERecord?id=CVE-2026-43739)**
+- 🔒 **[CVE-2026-43816](https://cve.org/CVERecord?id=CVE-2026-43816)**
+- 🔒 **[CVE-2026-64691](https://cve.org/CVERecord?id=CVE-2026-64691)**
