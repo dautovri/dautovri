@@ -16,5 +16,6 @@ Responsible disclosure of vulnerabilities acknowledged by **Apple**:
 - 🔒 **[CVE-2026-28983](https://cve.org/CVERecord?id=CVE-2026-28983)**
 - 🔒 **[CVE-2026-43739](https://cve.org/CVERecord?id=CVE-2026-43739)**
 - 🔒 **[CVE-2026-43816](https://cve.org/CVERecord?id=CVE-2026-43816)**
+- 🔒 **[CVE-2026-64736](https://cve.org/CVERecord?id=CVE-2026-64736)**
 - 🔒 **[CVE-2026-64691](https://cve.org/CVERecord?id=CVE-2026-64691)**
 - 🔒 **[CVE-2026-84607](https://cve.org/CVERecord?id=CVE-2026-84607)**
